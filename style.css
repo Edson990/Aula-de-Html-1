@@ -1,0 +1,29 @@
+body {
+    background-color: red;
+}
+#navbar {
+    background-color: red;
+    width: 700px;
+    height: 60px;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    font-size: 10px;
+    text-transform: uppercase;
+}
+
+#caixaUm {
+    background-color: red;
+    height: 30px;
+    width: 200px;
+}
+
+#caixaDois {
+    background-color: red;
+    height: 30px;
+    width: 200px;
+}
